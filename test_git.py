@@ -7,3 +7,4 @@
 # 6、最后加减
 
 print('ok')
+prin('ok')
